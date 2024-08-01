@@ -1,3 +1,5 @@
+Extension téléchargeable pour Firefox : https://addons.mozilla.org/fr/firefox/addon/visualisez-vos-cookies/
+
 Que vous soyez un développeur, un professionnel du web ou simplement un utilisateur curieux, cette extension vous permet d'accéder facilement à la valeur spécifique d'un cookie spécifique de n'importe quel site web.
 
 Fonctionnalités principales :
